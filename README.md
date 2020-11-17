@@ -9,6 +9,10 @@ ceci est mon premier repo
 2. SQL
  * SQL1
  * SQL2
+ 
+ GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
 
 
 
