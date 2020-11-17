@@ -8,5 +8,5 @@ ceci est mon premier repo
 alt="https://upload.wikimedia.org/wikipedia/commons/7/77/Satie-erik-4ff9d0bde1749.jpg" width="240" height="180" border="10" /></a>
 
 
-Inline-style: 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/7/77/Satie-erik-4ff9d0bde1749.jpg "ERIK SATIE")
+
+[Logo]:(https://upload.wikimedia.org/wikipedia/commons/7/77/Satie-erik-4ff9d0bde1749.jpg "ERIK SATIE")
