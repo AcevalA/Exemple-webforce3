@@ -3,7 +3,7 @@ test webforce3
 
 ceci est mon premier repo
 
-[I'm an inline-style link with title](https://www.youtube.com/watch?v=ZXSoSFzKd_4&ab_channel=FranceMusique "ERIK")
+[ERIK](https://www.youtube.com/watch?v=ZXSoSFzKd_4&ab_channel=FranceMusique "ERIK")
 
 
 
