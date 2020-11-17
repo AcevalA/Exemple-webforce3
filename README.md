@@ -5,8 +5,8 @@ ceci est mon premier repo
 
 [ERIK](https://www.youtube.com/watch?v=ZXSoSFzKd_4&ab_channel=FranceMusique "ERIK")
 
-1 HTML
-2 SQL
+1. HTML
+2. SQL
  * SQL1
  * SQL2
 
