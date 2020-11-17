@@ -22,7 +22,7 @@ Code2 | Code2
 
 
 
-Reference-style: 
+ 
 ![alt text][logo]
 
 [logo]: https://upload.wikimedia.org/wikipedia/commons/7/77/Satie-erik-4ff9d0bde1749.jpg "ERIK"
