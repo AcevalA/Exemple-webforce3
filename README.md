@@ -25,4 +25,4 @@ Code2 | Code2
  
 ![alt text][logo]
 
-[logo]:  "ERIK"
+[logo]: CV.png "ERIK"
